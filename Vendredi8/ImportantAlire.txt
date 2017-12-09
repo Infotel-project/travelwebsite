@@ -1,0 +1,1 @@
+LE Problème avec le pop-up pour se connecter / s'inscrire vient de ce fichier : C:\wamp\www\Trips\Vendredi8\plugins\jQurey, ne plus l'inclure (librairie jQuery remplacée par une plus ancienne, ça ne change rien sur le site).
